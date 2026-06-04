@@ -1,5 +1,5 @@
 # CIT-U Lost & Found System - Maroon & Gold Edition 🦁
-
+-# A IM project with a friend
 A vanilla PHP/MySQL web system for managing lost and found items, built with MVP principles and vertical slicing.
 
 
